@@ -1,2 +1,2 @@
 # hello-bill
-My first repository on GitHub
+My GitHub assignment submission
